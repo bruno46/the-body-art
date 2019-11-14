@@ -1,0 +1,44 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    
+}
+body{
+
+    font-family: 'Montserrat', sans-serif;
+  
+}
+
+.navbar{
+    box-shadow: 1px 1px 4px 1px #000;
+    opacity: .9;
+    background:#ff8000;
+}
+.nav-link{
+    color: #fff
+}
+.container-fluid{
+    background-color: #e7e7e7;
+}
+
+.icon {
+    font-size : 24px ;
+    color: #fff;
+ }
+ .list-unstyled li a {
+     color:#343a40;
+     text-decoration: none;
+ }
+footer{
+    background:#ff8000;
+
+
+}
+.footer-copyright{
+background:#ffa420;}
+#faq
+{
+    font-size : 22px ;
+    color: #fff;  
+}
